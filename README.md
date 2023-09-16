@@ -25,7 +25,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 <code><img height="20" src="https://i.ibb.co/bbDpfdT/html-5.png"></code>    
 <code><img height="20" src="https://i.ibb.co/JQbJRMF/css-3.png"></code>    
-<code><img height="20" src="https://i.ibb.co/VN1pCQ9/java.png"></code>    
+<code><img src="https://i.ibb.co/JQbJRMF/css-3.png" alt="css-3" border="0"></a></code>    
 
 <div align="center">
 
